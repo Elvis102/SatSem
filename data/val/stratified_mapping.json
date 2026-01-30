@@ -1,0 +1,722 @@
+[
+  {
+    "new_idx": 0,
+    "new_tile": "tile_0000.tif",
+    "new_mask": "mask_0000.tif",
+    "temp_tile": "temp_tile_0204.tif",
+    "temp_mask": "temp_mask_0204.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 34.356689453125
+  },
+  {
+    "new_idx": 1,
+    "new_tile": "tile_0001.tif",
+    "new_mask": "mask_0001.tif",
+    "temp_tile": "temp_tile_0366.tif",
+    "temp_mask": "temp_mask_0366.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 24.017333984375
+  },
+  {
+    "new_idx": 2,
+    "new_tile": "tile_0002.tif",
+    "new_mask": "mask_0002.tif",
+    "temp_tile": "temp_tile_0252.tif",
+    "temp_mask": "temp_mask_0252.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 37.750244140625
+  },
+  {
+    "new_idx": 3,
+    "new_tile": "tile_0003.tif",
+    "new_mask": "mask_0003.tif",
+    "temp_tile": "temp_tile_0236.tif",
+    "temp_mask": "temp_mask_0236.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 46.636962890625
+  },
+  {
+    "new_idx": 4,
+    "new_tile": "tile_0004.tif",
+    "new_mask": "mask_0004.tif",
+    "temp_tile": "temp_tile_0296.tif",
+    "temp_mask": "temp_mask_0296.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 23.62060546875
+  },
+  {
+    "new_idx": 5,
+    "new_tile": "tile_0005.tif",
+    "new_mask": "mask_0005.tif",
+    "temp_tile": "temp_tile_0166.tif",
+    "temp_mask": "temp_mask_0166.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 47.65625
+  },
+  {
+    "new_idx": 6,
+    "new_tile": "tile_0006.tif",
+    "new_mask": "mask_0006.tif",
+    "temp_tile": "temp_tile_0206.tif",
+    "temp_mask": "temp_mask_0206.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 61.669921875
+  },
+  {
+    "new_idx": 7,
+    "new_tile": "tile_0007.tif",
+    "new_mask": "mask_0007.tif",
+    "temp_tile": "temp_tile_0376.tif",
+    "temp_mask": "temp_mask_0376.tif",
+    "tile_type": "positive_sparse",
+    "manglar_percentage": 4.2236328125
+  },
+  {
+    "new_idx": 8,
+    "new_tile": "tile_0008.tif",
+    "new_mask": "mask_0008.tif",
+    "temp_tile": "temp_tile_0278.tif",
+    "temp_mask": "temp_mask_0278.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 43.951416015625
+  },
+  {
+    "new_idx": 9,
+    "new_tile": "tile_0009.tif",
+    "new_mask": "mask_0009.tif",
+    "temp_tile": "temp_tile_0022.tif",
+    "temp_mask": "temp_mask_0022.tif",
+    "tile_type": "positive_sparse",
+    "manglar_percentage": 2.18505859375
+  },
+  {
+    "new_idx": 10,
+    "new_tile": "tile_0010.tif",
+    "new_mask": "mask_0010.tif",
+    "temp_tile": "temp_tile_0047.tif",
+    "temp_mask": "temp_mask_0047.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 19.37255859375
+  },
+  {
+    "new_idx": 11,
+    "new_tile": "tile_0011.tif",
+    "new_mask": "mask_0011.tif",
+    "temp_tile": "temp_tile_0240.tif",
+    "temp_mask": "temp_mask_0240.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 32.9345703125
+  },
+  {
+    "new_idx": 12,
+    "new_tile": "tile_0012.tif",
+    "new_mask": "mask_0012.tif",
+    "temp_tile": "temp_tile_0304.tif",
+    "temp_mask": "temp_mask_0304.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 44.8486328125
+  },
+  {
+    "new_idx": 13,
+    "new_tile": "tile_0013.tif",
+    "new_mask": "mask_0013.tif",
+    "temp_tile": "temp_tile_0264.tif",
+    "temp_mask": "temp_mask_0264.tif",
+    "tile_type": "negative",
+    "manglar_percentage": 0.0
+  },
+  {
+    "new_idx": 14,
+    "new_tile": "tile_0014.tif",
+    "new_mask": "mask_0014.tif",
+    "temp_tile": "temp_tile_0362.tif",
+    "temp_mask": "temp_mask_0362.tif",
+    "tile_type": "positive_sparse",
+    "manglar_percentage": 0.6591796875
+  },
+  {
+    "new_idx": 15,
+    "new_tile": "tile_0015.tif",
+    "new_mask": "mask_0015.tif",
+    "temp_tile": "temp_tile_0088.tif",
+    "temp_mask": "temp_mask_0088.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 56.43310546875
+  },
+  {
+    "new_idx": 16,
+    "new_tile": "tile_0016.tif",
+    "new_mask": "mask_0016.tif",
+    "temp_tile": "temp_tile_0225.tif",
+    "temp_mask": "temp_mask_0225.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 15.27099609375
+  },
+  {
+    "new_idx": 17,
+    "new_tile": "tile_0017.tif",
+    "new_mask": "mask_0017.tif",
+    "temp_tile": "temp_tile_0105.tif",
+    "temp_mask": "temp_mask_0105.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 16.9921875
+  },
+  {
+    "new_idx": 18,
+    "new_tile": "tile_0018.tif",
+    "new_mask": "mask_0018.tif",
+    "temp_tile": "temp_tile_0131.tif",
+    "temp_mask": "temp_mask_0131.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 61.669921875
+  },
+  {
+    "new_idx": 19,
+    "new_tile": "tile_0019.tif",
+    "new_mask": "mask_0019.tif",
+    "temp_tile": "temp_tile_0190.tif",
+    "temp_mask": "temp_mask_0190.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 28.338623046875
+  },
+  {
+    "new_idx": 20,
+    "new_tile": "tile_0020.tif",
+    "new_mask": "mask_0020.tif",
+    "temp_tile": "temp_tile_0023.tif",
+    "temp_mask": "temp_mask_0023.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 6.65283203125
+  },
+  {
+    "new_idx": 21,
+    "new_tile": "tile_0021.tif",
+    "new_mask": "mask_0021.tif",
+    "temp_tile": "temp_tile_0193.tif",
+    "temp_mask": "temp_mask_0193.tif",
+    "tile_type": "positive_sparse",
+    "manglar_percentage": 4.510498046875
+  },
+  {
+    "new_idx": 22,
+    "new_tile": "tile_0022.tif",
+    "new_mask": "mask_0022.tif",
+    "temp_tile": "temp_tile_0320.tif",
+    "temp_mask": "temp_mask_0320.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 77.972412109375
+  },
+  {
+    "new_idx": 23,
+    "new_tile": "tile_0023.tif",
+    "new_mask": "mask_0023.tif",
+    "temp_tile": "temp_tile_0115.tif",
+    "temp_mask": "temp_mask_0115.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 45.623779296875
+  },
+  {
+    "new_idx": 24,
+    "new_tile": "tile_0024.tif",
+    "new_mask": "mask_0024.tif",
+    "temp_tile": "temp_tile_0200.tif",
+    "temp_mask": "temp_mask_0200.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 50.10986328125
+  },
+  {
+    "new_idx": 25,
+    "new_tile": "tile_0025.tif",
+    "new_mask": "mask_0025.tif",
+    "temp_tile": "temp_tile_0279.tif",
+    "temp_mask": "temp_mask_0279.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 70.062255859375
+  },
+  {
+    "new_idx": 26,
+    "new_tile": "tile_0026.tif",
+    "new_mask": "mask_0026.tif",
+    "temp_tile": "temp_tile_0194.tif",
+    "temp_mask": "temp_mask_0194.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 25.543212890625
+  },
+  {
+    "new_idx": 27,
+    "new_tile": "tile_0027.tif",
+    "new_mask": "mask_0027.tif",
+    "temp_tile": "temp_tile_0353.tif",
+    "temp_mask": "temp_mask_0353.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 28.704833984375
+  },
+  {
+    "new_idx": 28,
+    "new_tile": "tile_0028.tif",
+    "new_mask": "mask_0028.tif",
+    "temp_tile": "temp_tile_0152.tif",
+    "temp_mask": "temp_mask_0152.tif",
+    "tile_type": "positive_sparse",
+    "manglar_percentage": 4.65087890625
+  },
+  {
+    "new_idx": 29,
+    "new_tile": "tile_0029.tif",
+    "new_mask": "mask_0029.tif",
+    "temp_tile": "temp_tile_0367.tif",
+    "temp_mask": "temp_mask_0367.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 47.83935546875
+  },
+  {
+    "new_idx": 30,
+    "new_tile": "tile_0030.tif",
+    "new_mask": "mask_0030.tif",
+    "temp_tile": "temp_tile_0133.tif",
+    "temp_mask": "temp_mask_0133.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 18.841552734375
+  },
+  {
+    "new_idx": 31,
+    "new_tile": "tile_0031.tif",
+    "new_mask": "mask_0031.tif",
+    "temp_tile": "temp_tile_0011.tif",
+    "temp_mask": "temp_mask_0011.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 46.453857421875
+  },
+  {
+    "new_idx": 32,
+    "new_tile": "tile_0032.tif",
+    "new_mask": "mask_0032.tif",
+    "temp_tile": "temp_tile_0395.tif",
+    "temp_mask": "temp_mask_0395.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 57.891845703125
+  },
+  {
+    "new_idx": 33,
+    "new_tile": "tile_0033.tif",
+    "new_mask": "mask_0033.tif",
+    "temp_tile": "temp_tile_0369.tif",
+    "temp_mask": "temp_mask_0369.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 49.7802734375
+  },
+  {
+    "new_idx": 34,
+    "new_tile": "tile_0034.tif",
+    "new_mask": "mask_0034.tif",
+    "temp_tile": "temp_tile_0083.tif",
+    "temp_mask": "temp_mask_0083.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 25.238037109375
+  },
+  {
+    "new_idx": 35,
+    "new_tile": "tile_0035.tif",
+    "new_mask": "mask_0035.tif",
+    "temp_tile": "temp_tile_0283.tif",
+    "temp_mask": "temp_mask_0283.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 31.890869140625
+  },
+  {
+    "new_idx": 36,
+    "new_tile": "tile_0036.tif",
+    "new_mask": "mask_0036.tif",
+    "temp_tile": "temp_tile_0355.tif",
+    "temp_mask": "temp_mask_0355.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 56.57958984375
+  },
+  {
+    "new_idx": 37,
+    "new_tile": "tile_0037.tif",
+    "new_mask": "mask_0037.tif",
+    "temp_tile": "temp_tile_0177.tif",
+    "temp_mask": "temp_mask_0177.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 23.1201171875
+  },
+  {
+    "new_idx": 38,
+    "new_tile": "tile_0038.tif",
+    "new_mask": "mask_0038.tif",
+    "temp_tile": "temp_tile_0339.tif",
+    "temp_mask": "temp_mask_0339.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 56.0302734375
+  },
+  {
+    "new_idx": 39,
+    "new_tile": "tile_0039.tif",
+    "new_mask": "mask_0039.tif",
+    "temp_tile": "temp_tile_0055.tif",
+    "temp_mask": "temp_mask_0055.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 30.926513671875
+  },
+  {
+    "new_idx": 40,
+    "new_tile": "tile_0040.tif",
+    "new_mask": "mask_0040.tif",
+    "temp_tile": "temp_tile_0364.tif",
+    "temp_mask": "temp_mask_0364.tif",
+    "tile_type": "negative",
+    "manglar_percentage": 0.0
+  },
+  {
+    "new_idx": 41,
+    "new_tile": "tile_0041.tif",
+    "new_mask": "mask_0041.tif",
+    "temp_tile": "temp_tile_0226.tif",
+    "temp_mask": "temp_mask_0226.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 10.107421875
+  },
+  {
+    "new_idx": 42,
+    "new_tile": "tile_0042.tif",
+    "new_mask": "mask_0042.tif",
+    "temp_tile": "temp_tile_0186.tif",
+    "temp_mask": "temp_mask_0186.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 16.4306640625
+  },
+  {
+    "new_idx": 43,
+    "new_tile": "tile_0043.tif",
+    "new_mask": "mask_0043.tif",
+    "temp_tile": "temp_tile_0180.tif",
+    "temp_mask": "temp_mask_0180.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 15.911865234375
+  },
+  {
+    "new_idx": 44,
+    "new_tile": "tile_0044.tif",
+    "new_mask": "mask_0044.tif",
+    "temp_tile": "temp_tile_0341.tif",
+    "temp_mask": "temp_mask_0341.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 17.83447265625
+  },
+  {
+    "new_idx": 45,
+    "new_tile": "tile_0045.tif",
+    "new_mask": "mask_0045.tif",
+    "temp_tile": "temp_tile_0275.tif",
+    "temp_mask": "temp_mask_0275.tif",
+    "tile_type": "positive_sparse",
+    "manglar_percentage": 2.264404296875
+  },
+  {
+    "new_idx": 46,
+    "new_tile": "tile_0046.tif",
+    "new_mask": "mask_0046.tif",
+    "temp_tile": "temp_tile_0100.tif",
+    "temp_mask": "temp_mask_0100.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 8.38623046875
+  },
+  {
+    "new_idx": 47,
+    "new_tile": "tile_0047.tif",
+    "new_mask": "mask_0047.tif",
+    "temp_tile": "temp_tile_0316.tif",
+    "temp_mask": "temp_mask_0316.tif",
+    "tile_type": "negative",
+    "manglar_percentage": 0.0
+  },
+  {
+    "new_idx": 48,
+    "new_tile": "tile_0048.tif",
+    "new_mask": "mask_0048.tif",
+    "temp_tile": "temp_tile_0146.tif",
+    "temp_mask": "temp_mask_0146.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 30.755615234375
+  },
+  {
+    "new_idx": 49,
+    "new_tile": "tile_0049.tif",
+    "new_mask": "mask_0049.tif",
+    "temp_tile": "temp_tile_0031.tif",
+    "temp_mask": "temp_mask_0031.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 59.942626953125
+  },
+  {
+    "new_idx": 50,
+    "new_tile": "tile_0050.tif",
+    "new_mask": "mask_0050.tif",
+    "temp_tile": "temp_tile_0235.tif",
+    "temp_mask": "temp_mask_0235.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 16.375732421875
+  },
+  {
+    "new_idx": 51,
+    "new_tile": "tile_0051.tif",
+    "new_mask": "mask_0051.tif",
+    "temp_tile": "temp_tile_0208.tif",
+    "temp_mask": "temp_mask_0208.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 6.268310546875
+  },
+  {
+    "new_idx": 52,
+    "new_tile": "tile_0052.tif",
+    "new_mask": "mask_0052.tif",
+    "temp_tile": "temp_tile_0057.tif",
+    "temp_mask": "temp_mask_0057.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 5.16357421875
+  },
+  {
+    "new_idx": 53,
+    "new_tile": "tile_0053.tif",
+    "new_mask": "mask_0053.tif",
+    "temp_tile": "temp_tile_0135.tif",
+    "temp_mask": "temp_mask_0135.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 6.84814453125
+  },
+  {
+    "new_idx": 54,
+    "new_tile": "tile_0054.tif",
+    "new_mask": "mask_0054.tif",
+    "temp_tile": "temp_tile_0229.tif",
+    "temp_mask": "temp_mask_0229.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 49.3896484375
+  },
+  {
+    "new_idx": 55,
+    "new_tile": "tile_0055.tif",
+    "new_mask": "mask_0055.tif",
+    "temp_tile": "temp_tile_0167.tif",
+    "temp_mask": "temp_mask_0167.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 18.890380859375
+  },
+  {
+    "new_idx": 56,
+    "new_tile": "tile_0056.tif",
+    "new_mask": "mask_0056.tif",
+    "temp_tile": "temp_tile_0233.tif",
+    "temp_mask": "temp_mask_0233.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 43.341064453125
+  },
+  {
+    "new_idx": 57,
+    "new_tile": "tile_0057.tif",
+    "new_mask": "mask_0057.tif",
+    "temp_tile": "temp_tile_0183.tif",
+    "temp_mask": "temp_mask_0183.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 18.994140625
+  },
+  {
+    "new_idx": 58,
+    "new_tile": "tile_0058.tif",
+    "new_mask": "mask_0058.tif",
+    "temp_tile": "temp_tile_0077.tif",
+    "temp_mask": "temp_mask_0077.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 15.66162109375
+  },
+  {
+    "new_idx": 59,
+    "new_tile": "tile_0059.tif",
+    "new_mask": "mask_0059.tif",
+    "temp_tile": "temp_tile_0242.tif",
+    "temp_mask": "temp_mask_0242.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 20.0927734375
+  },
+  {
+    "new_idx": 60,
+    "new_tile": "tile_0060.tif",
+    "new_mask": "mask_0060.tif",
+    "temp_tile": "temp_tile_0102.tif",
+    "temp_mask": "temp_mask_0102.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 35.247802734375
+  },
+  {
+    "new_idx": 61,
+    "new_tile": "tile_0061.tif",
+    "new_mask": "mask_0061.tif",
+    "temp_tile": "temp_tile_0085.tif",
+    "temp_mask": "temp_mask_0085.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 26.3916015625
+  },
+  {
+    "new_idx": 62,
+    "new_tile": "tile_0062.tif",
+    "new_mask": "mask_0062.tif",
+    "temp_tile": "temp_tile_0271.tif",
+    "temp_mask": "temp_mask_0271.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 21.05712890625
+  },
+  {
+    "new_idx": 63,
+    "new_tile": "tile_0063.tif",
+    "new_mask": "mask_0063.tif",
+    "temp_tile": "temp_tile_0042.tif",
+    "temp_mask": "temp_mask_0042.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 27.215576171875
+  },
+  {
+    "new_idx": 64,
+    "new_tile": "tile_0064.tif",
+    "new_mask": "mask_0064.tif",
+    "temp_tile": "temp_tile_0213.tif",
+    "temp_mask": "temp_mask_0213.tif",
+    "tile_type": "positive_sparse",
+    "manglar_percentage": 3.826904296875
+  },
+  {
+    "new_idx": 65,
+    "new_tile": "tile_0065.tif",
+    "new_mask": "mask_0065.tif",
+    "temp_tile": "temp_tile_0356.tif",
+    "temp_mask": "temp_mask_0356.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 18.84765625
+  },
+  {
+    "new_idx": 66,
+    "new_tile": "tile_0066.tif",
+    "new_mask": "mask_0066.tif",
+    "temp_tile": "temp_tile_0032.tif",
+    "temp_mask": "temp_mask_0032.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 38.87939453125
+  },
+  {
+    "new_idx": 67,
+    "new_tile": "tile_0067.tif",
+    "new_mask": "mask_0067.tif",
+    "temp_tile": "temp_tile_0192.tif",
+    "temp_mask": "temp_mask_0192.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 29.779052734375
+  },
+  {
+    "new_idx": 68,
+    "new_tile": "tile_0068.tif",
+    "new_mask": "mask_0068.tif",
+    "temp_tile": "temp_tile_0389.tif",
+    "temp_mask": "temp_mask_0389.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 16.0400390625
+  },
+  {
+    "new_idx": 69,
+    "new_tile": "tile_0069.tif",
+    "new_mask": "mask_0069.tif",
+    "temp_tile": "temp_tile_0091.tif",
+    "temp_mask": "temp_mask_0091.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 42.78564453125
+  },
+  {
+    "new_idx": 70,
+    "new_tile": "tile_0070.tif",
+    "new_mask": "mask_0070.tif",
+    "temp_tile": "temp_tile_0276.tif",
+    "temp_mask": "temp_mask_0276.tif",
+    "tile_type": "positive_sparse",
+    "manglar_percentage": 0.665283203125
+  },
+  {
+    "new_idx": 71,
+    "new_tile": "tile_0071.tif",
+    "new_mask": "mask_0071.tif",
+    "temp_tile": "temp_tile_0062.tif",
+    "temp_mask": "temp_mask_0062.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 25.28076171875
+  },
+  {
+    "new_idx": 72,
+    "new_tile": "tile_0072.tif",
+    "new_mask": "mask_0072.tif",
+    "temp_tile": "temp_tile_0351.tif",
+    "temp_mask": "temp_mask_0351.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 35.662841796875
+  },
+  {
+    "new_idx": 73,
+    "new_tile": "tile_0073.tif",
+    "new_mask": "mask_0073.tif",
+    "temp_tile": "temp_tile_0046.tif",
+    "temp_mask": "temp_mask_0046.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 51.3916015625
+  },
+  {
+    "new_idx": 74,
+    "new_tile": "tile_0074.tif",
+    "new_mask": "mask_0074.tif",
+    "temp_tile": "temp_tile_0101.tif",
+    "temp_mask": "temp_mask_0101.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 68.707275390625
+  },
+  {
+    "new_idx": 75,
+    "new_tile": "tile_0075.tif",
+    "new_mask": "mask_0075.tif",
+    "temp_tile": "temp_tile_0396.tif",
+    "temp_mask": "temp_mask_0396.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 58.11767578125
+  },
+  {
+    "new_idx": 76,
+    "new_tile": "tile_0076.tif",
+    "new_mask": "mask_0076.tif",
+    "temp_tile": "temp_tile_0284.tif",
+    "temp_mask": "temp_mask_0284.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 49.346923828125
+  },
+  {
+    "new_idx": 77,
+    "new_tile": "tile_0077.tif",
+    "new_mask": "mask_0077.tif",
+    "temp_tile": "temp_tile_0175.tif",
+    "temp_mask": "temp_mask_0175.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 35.38818359375
+  },
+  {
+    "new_idx": 78,
+    "new_tile": "tile_0078.tif",
+    "new_mask": "mask_0078.tif",
+    "temp_tile": "temp_tile_0178.tif",
+    "temp_mask": "temp_mask_0178.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 33.319091796875
+  },
+  {
+    "new_idx": 79,
+    "new_tile": "tile_0079.tif",
+    "new_mask": "mask_0079.tif",
+    "temp_tile": "temp_tile_0107.tif",
+    "temp_mask": "temp_mask_0107.tif",
+    "tile_type": "positive_dense",
+    "manglar_percentage": 31.646728515625
+  }
+]

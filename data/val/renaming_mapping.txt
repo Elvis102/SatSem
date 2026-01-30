@@ -1,0 +1,333 @@
+================================================================================
+MAPEO DE RENUMERACIÓN - VAL (PARTICIÓN ESTRATIFICADA)
+================================================================================
+Fecha: 2026-01-23 21:43:59
+Total pares: 80
+Numeración: 0000 a 0079 (continua sin huecos)
+
+DISTRIBUCIÓN POR CATEGORÍA EN VAL:
+  - negative: 3
+  - positive_dense: 69
+  - positive_sparse: 8
+================================================================================
+
+tile_0000.tif / mask_0000.tif
+  ← temp_tile_0204.tif / temp_mask_0204.tif
+  Tipo: positive_dense (34.36% manglar)
+
+tile_0001.tif / mask_0001.tif
+  ← temp_tile_0366.tif / temp_mask_0366.tif
+  Tipo: positive_dense (24.02% manglar)
+
+tile_0002.tif / mask_0002.tif
+  ← temp_tile_0252.tif / temp_mask_0252.tif
+  Tipo: positive_dense (37.75% manglar)
+
+tile_0003.tif / mask_0003.tif
+  ← temp_tile_0236.tif / temp_mask_0236.tif
+  Tipo: positive_dense (46.64% manglar)
+
+tile_0004.tif / mask_0004.tif
+  ← temp_tile_0296.tif / temp_mask_0296.tif
+  Tipo: positive_dense (23.62% manglar)
+
+tile_0005.tif / mask_0005.tif
+  ← temp_tile_0166.tif / temp_mask_0166.tif
+  Tipo: positive_dense (47.66% manglar)
+
+tile_0006.tif / mask_0006.tif
+  ← temp_tile_0206.tif / temp_mask_0206.tif
+  Tipo: positive_dense (61.67% manglar)
+
+tile_0007.tif / mask_0007.tif
+  ← temp_tile_0376.tif / temp_mask_0376.tif
+  Tipo: positive_sparse (4.22% manglar)
+
+tile_0008.tif / mask_0008.tif
+  ← temp_tile_0278.tif / temp_mask_0278.tif
+  Tipo: positive_dense (43.95% manglar)
+
+tile_0009.tif / mask_0009.tif
+  ← temp_tile_0022.tif / temp_mask_0022.tif
+  Tipo: positive_sparse (2.19% manglar)
+
+tile_0010.tif / mask_0010.tif
+  ← temp_tile_0047.tif / temp_mask_0047.tif
+  Tipo: positive_dense (19.37% manglar)
+
+tile_0011.tif / mask_0011.tif
+  ← temp_tile_0240.tif / temp_mask_0240.tif
+  Tipo: positive_dense (32.93% manglar)
+
+tile_0012.tif / mask_0012.tif
+  ← temp_tile_0304.tif / temp_mask_0304.tif
+  Tipo: positive_dense (44.85% manglar)
+
+tile_0013.tif / mask_0013.tif
+  ← temp_tile_0264.tif / temp_mask_0264.tif
+  Tipo: negative (0.00% manglar)
+
+tile_0014.tif / mask_0014.tif
+  ← temp_tile_0362.tif / temp_mask_0362.tif
+  Tipo: positive_sparse (0.66% manglar)
+
+tile_0015.tif / mask_0015.tif
+  ← temp_tile_0088.tif / temp_mask_0088.tif
+  Tipo: positive_dense (56.43% manglar)
+
+tile_0016.tif / mask_0016.tif
+  ← temp_tile_0225.tif / temp_mask_0225.tif
+  Tipo: positive_dense (15.27% manglar)
+
+tile_0017.tif / mask_0017.tif
+  ← temp_tile_0105.tif / temp_mask_0105.tif
+  Tipo: positive_dense (16.99% manglar)
+
+tile_0018.tif / mask_0018.tif
+  ← temp_tile_0131.tif / temp_mask_0131.tif
+  Tipo: positive_dense (61.67% manglar)
+
+tile_0019.tif / mask_0019.tif
+  ← temp_tile_0190.tif / temp_mask_0190.tif
+  Tipo: positive_dense (28.34% manglar)
+
+tile_0020.tif / mask_0020.tif
+  ← temp_tile_0023.tif / temp_mask_0023.tif
+  Tipo: positive_dense (6.65% manglar)
+
+tile_0021.tif / mask_0021.tif
+  ← temp_tile_0193.tif / temp_mask_0193.tif
+  Tipo: positive_sparse (4.51% manglar)
+
+tile_0022.tif / mask_0022.tif
+  ← temp_tile_0320.tif / temp_mask_0320.tif
+  Tipo: positive_dense (77.97% manglar)
+
+tile_0023.tif / mask_0023.tif
+  ← temp_tile_0115.tif / temp_mask_0115.tif
+  Tipo: positive_dense (45.62% manglar)
+
+tile_0024.tif / mask_0024.tif
+  ← temp_tile_0200.tif / temp_mask_0200.tif
+  Tipo: positive_dense (50.11% manglar)
+
+tile_0025.tif / mask_0025.tif
+  ← temp_tile_0279.tif / temp_mask_0279.tif
+  Tipo: positive_dense (70.06% manglar)
+
+tile_0026.tif / mask_0026.tif
+  ← temp_tile_0194.tif / temp_mask_0194.tif
+  Tipo: positive_dense (25.54% manglar)
+
+tile_0027.tif / mask_0027.tif
+  ← temp_tile_0353.tif / temp_mask_0353.tif
+  Tipo: positive_dense (28.70% manglar)
+
+tile_0028.tif / mask_0028.tif
+  ← temp_tile_0152.tif / temp_mask_0152.tif
+  Tipo: positive_sparse (4.65% manglar)
+
+tile_0029.tif / mask_0029.tif
+  ← temp_tile_0367.tif / temp_mask_0367.tif
+  Tipo: positive_dense (47.84% manglar)
+
+tile_0030.tif / mask_0030.tif
+  ← temp_tile_0133.tif / temp_mask_0133.tif
+  Tipo: positive_dense (18.84% manglar)
+
+tile_0031.tif / mask_0031.tif
+  ← temp_tile_0011.tif / temp_mask_0011.tif
+  Tipo: positive_dense (46.45% manglar)
+
+tile_0032.tif / mask_0032.tif
+  ← temp_tile_0395.tif / temp_mask_0395.tif
+  Tipo: positive_dense (57.89% manglar)
+
+tile_0033.tif / mask_0033.tif
+  ← temp_tile_0369.tif / temp_mask_0369.tif
+  Tipo: positive_dense (49.78% manglar)
+
+tile_0034.tif / mask_0034.tif
+  ← temp_tile_0083.tif / temp_mask_0083.tif
+  Tipo: positive_dense (25.24% manglar)
+
+tile_0035.tif / mask_0035.tif
+  ← temp_tile_0283.tif / temp_mask_0283.tif
+  Tipo: positive_dense (31.89% manglar)
+
+tile_0036.tif / mask_0036.tif
+  ← temp_tile_0355.tif / temp_mask_0355.tif
+  Tipo: positive_dense (56.58% manglar)
+
+tile_0037.tif / mask_0037.tif
+  ← temp_tile_0177.tif / temp_mask_0177.tif
+  Tipo: positive_dense (23.12% manglar)
+
+tile_0038.tif / mask_0038.tif
+  ← temp_tile_0339.tif / temp_mask_0339.tif
+  Tipo: positive_dense (56.03% manglar)
+
+tile_0039.tif / mask_0039.tif
+  ← temp_tile_0055.tif / temp_mask_0055.tif
+  Tipo: positive_dense (30.93% manglar)
+
+tile_0040.tif / mask_0040.tif
+  ← temp_tile_0364.tif / temp_mask_0364.tif
+  Tipo: negative (0.00% manglar)
+
+tile_0041.tif / mask_0041.tif
+  ← temp_tile_0226.tif / temp_mask_0226.tif
+  Tipo: positive_dense (10.11% manglar)
+
+tile_0042.tif / mask_0042.tif
+  ← temp_tile_0186.tif / temp_mask_0186.tif
+  Tipo: positive_dense (16.43% manglar)
+
+tile_0043.tif / mask_0043.tif
+  ← temp_tile_0180.tif / temp_mask_0180.tif
+  Tipo: positive_dense (15.91% manglar)
+
+tile_0044.tif / mask_0044.tif
+  ← temp_tile_0341.tif / temp_mask_0341.tif
+  Tipo: positive_dense (17.83% manglar)
+
+tile_0045.tif / mask_0045.tif
+  ← temp_tile_0275.tif / temp_mask_0275.tif
+  Tipo: positive_sparse (2.26% manglar)
+
+tile_0046.tif / mask_0046.tif
+  ← temp_tile_0100.tif / temp_mask_0100.tif
+  Tipo: positive_dense (8.39% manglar)
+
+tile_0047.tif / mask_0047.tif
+  ← temp_tile_0316.tif / temp_mask_0316.tif
+  Tipo: negative (0.00% manglar)
+
+tile_0048.tif / mask_0048.tif
+  ← temp_tile_0146.tif / temp_mask_0146.tif
+  Tipo: positive_dense (30.76% manglar)
+
+tile_0049.tif / mask_0049.tif
+  ← temp_tile_0031.tif / temp_mask_0031.tif
+  Tipo: positive_dense (59.94% manglar)
+
+tile_0050.tif / mask_0050.tif
+  ← temp_tile_0235.tif / temp_mask_0235.tif
+  Tipo: positive_dense (16.38% manglar)
+
+tile_0051.tif / mask_0051.tif
+  ← temp_tile_0208.tif / temp_mask_0208.tif
+  Tipo: positive_dense (6.27% manglar)
+
+tile_0052.tif / mask_0052.tif
+  ← temp_tile_0057.tif / temp_mask_0057.tif
+  Tipo: positive_dense (5.16% manglar)
+
+tile_0053.tif / mask_0053.tif
+  ← temp_tile_0135.tif / temp_mask_0135.tif
+  Tipo: positive_dense (6.85% manglar)
+
+tile_0054.tif / mask_0054.tif
+  ← temp_tile_0229.tif / temp_mask_0229.tif
+  Tipo: positive_dense (49.39% manglar)
+
+tile_0055.tif / mask_0055.tif
+  ← temp_tile_0167.tif / temp_mask_0167.tif
+  Tipo: positive_dense (18.89% manglar)
+
+tile_0056.tif / mask_0056.tif
+  ← temp_tile_0233.tif / temp_mask_0233.tif
+  Tipo: positive_dense (43.34% manglar)
+
+tile_0057.tif / mask_0057.tif
+  ← temp_tile_0183.tif / temp_mask_0183.tif
+  Tipo: positive_dense (18.99% manglar)
+
+tile_0058.tif / mask_0058.tif
+  ← temp_tile_0077.tif / temp_mask_0077.tif
+  Tipo: positive_dense (15.66% manglar)
+
+tile_0059.tif / mask_0059.tif
+  ← temp_tile_0242.tif / temp_mask_0242.tif
+  Tipo: positive_dense (20.09% manglar)
+
+tile_0060.tif / mask_0060.tif
+  ← temp_tile_0102.tif / temp_mask_0102.tif
+  Tipo: positive_dense (35.25% manglar)
+
+tile_0061.tif / mask_0061.tif
+  ← temp_tile_0085.tif / temp_mask_0085.tif
+  Tipo: positive_dense (26.39% manglar)
+
+tile_0062.tif / mask_0062.tif
+  ← temp_tile_0271.tif / temp_mask_0271.tif
+  Tipo: positive_dense (21.06% manglar)
+
+tile_0063.tif / mask_0063.tif
+  ← temp_tile_0042.tif / temp_mask_0042.tif
+  Tipo: positive_dense (27.22% manglar)
+
+tile_0064.tif / mask_0064.tif
+  ← temp_tile_0213.tif / temp_mask_0213.tif
+  Tipo: positive_sparse (3.83% manglar)
+
+tile_0065.tif / mask_0065.tif
+  ← temp_tile_0356.tif / temp_mask_0356.tif
+  Tipo: positive_dense (18.85% manglar)
+
+tile_0066.tif / mask_0066.tif
+  ← temp_tile_0032.tif / temp_mask_0032.tif
+  Tipo: positive_dense (38.88% manglar)
+
+tile_0067.tif / mask_0067.tif
+  ← temp_tile_0192.tif / temp_mask_0192.tif
+  Tipo: positive_dense (29.78% manglar)
+
+tile_0068.tif / mask_0068.tif
+  ← temp_tile_0389.tif / temp_mask_0389.tif
+  Tipo: positive_dense (16.04% manglar)
+
+tile_0069.tif / mask_0069.tif
+  ← temp_tile_0091.tif / temp_mask_0091.tif
+  Tipo: positive_dense (42.79% manglar)
+
+tile_0070.tif / mask_0070.tif
+  ← temp_tile_0276.tif / temp_mask_0276.tif
+  Tipo: positive_sparse (0.67% manglar)
+
+tile_0071.tif / mask_0071.tif
+  ← temp_tile_0062.tif / temp_mask_0062.tif
+  Tipo: positive_dense (25.28% manglar)
+
+tile_0072.tif / mask_0072.tif
+  ← temp_tile_0351.tif / temp_mask_0351.tif
+  Tipo: positive_dense (35.66% manglar)
+
+tile_0073.tif / mask_0073.tif
+  ← temp_tile_0046.tif / temp_mask_0046.tif
+  Tipo: positive_dense (51.39% manglar)
+
+tile_0074.tif / mask_0074.tif
+  ← temp_tile_0101.tif / temp_mask_0101.tif
+  Tipo: positive_dense (68.71% manglar)
+
+tile_0075.tif / mask_0075.tif
+  ← temp_tile_0396.tif / temp_mask_0396.tif
+  Tipo: positive_dense (58.12% manglar)
+
+tile_0076.tif / mask_0076.tif
+  ← temp_tile_0284.tif / temp_mask_0284.tif
+  Tipo: positive_dense (49.35% manglar)
+
+tile_0077.tif / mask_0077.tif
+  ← temp_tile_0175.tif / temp_mask_0175.tif
+  Tipo: positive_dense (35.39% manglar)
+
+tile_0078.tif / mask_0078.tif
+  ← temp_tile_0178.tif / temp_mask_0178.tif
+  Tipo: positive_dense (33.32% manglar)
+
+tile_0079.tif / mask_0079.tif
+  ← temp_tile_0107.tif / temp_mask_0107.tif
+  Tipo: positive_dense (31.65% manglar)
+
